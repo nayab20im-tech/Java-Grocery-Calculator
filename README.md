@@ -14,3 +14,37 @@ A command-line Java application designed to calculate the total cost of grocery 
 1. **Prerequisites**: Ensure you have Java installed on your machine.
    ```bash
    java -version
+   
+Compile the program:
+javac GroceryStoreCalculator.java
+
+Run the application:
+java GroceryStoreCalculator
+
+💻 Usage Example
+Enter the number of distinct items in cart: 2
+
+--- Item 1 ---
+Enter the price of item: $10
+Enter the quantity purchased: 3
+
+--- Item 2 ---
+Enter the price of item: $5
+Enter the quantity purchased: 4
+
+==================================
+Subtotal Amount: $50.00
+Total Units Purchased: 7
+Bulk Discount (10%): -$5.00
+Total Bill after Discount: $45.00
+==================================
+
+🛠️ Technologies Used
+
+    Language: Java
+
+    Core Concepts: Loops (for), Conditional Logic (if-else), Input Handling (Scanner)
+
+📄 License
+
+This project is open-source and available for educational use.
