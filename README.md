@@ -32,12 +32,11 @@ Enter the quantity purchased: 3
 Enter the price of item: $5
 Enter the quantity purchased: 4
 
-==================================
+
 Subtotal Amount: $50.00
 Total Units Purchased: 7
 Bulk Discount (10%): -$5.00
 Total Bill after Discount: $45.00
-==================================
 
 🛠️ Technologies Used
 
